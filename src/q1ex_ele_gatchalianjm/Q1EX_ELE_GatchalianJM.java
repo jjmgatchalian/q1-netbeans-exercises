@@ -14,7 +14,7 @@ public class Q1EX_ELE_GatchalianJM {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("main application");
+        System.out.println("main application !");
     }
     
 }
